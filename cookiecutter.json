@@ -1,0 +1,17 @@
+{
+  "title": "My Project",
+  "second_title": "Subtitle",
+  "year": "{% now 'utc', '%Y' %}",
+  "show_date": ["true", "false"],
+  "company": "ACME Inc.",
+  "lang": ["english", "russian"],
+  "show_title_page": ["true", "false"],
+  "show_toc": ["true", "false"],
+  "show_tof": ["true", "false"],
+  "template": "basic",
+  "version": "0.1.0",
+  "_extensions": ["jinja2_time.TimeExtension"],
+  "_copy_without_render": [
+    "*.tex"
+  ]
+}

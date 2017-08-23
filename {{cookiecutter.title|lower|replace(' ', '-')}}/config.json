@@ -1,0 +1,13 @@
+{
+  "title": "{{cookiecutter.title}}",
+  "second_title":"{{cookiecutter.second_title}}",
+  "year":"{{cookiecutter.year}}",
+  "date":"{{cookiecutter.show_date}}",
+  "company": "{{cookiecutter.company}}",
+  "lang": "{{cookiecutter.lang}}",
+  "title_page": "{{cookiecutter.show_title_page}}",
+  "toc": "{{cookiecutter.show_toc}}",
+  "tof": "{{cookiecutter.show_tof}}",
+  "template": "basic",
+  "version": "{{cookiecutter.version}}"
+}
