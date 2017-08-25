@@ -8,6 +8,6 @@
   "title_page": "{{cookiecutter.show_title_page}}",
   "toc": "{{cookiecutter.show_toc}}",
   "tof": "{{cookiecutter.show_tof}}",
-  "template": "basic",
+  "template": "{{cookiecutter.template}}",
   "version": "{{cookiecutter.version}}"
 }
