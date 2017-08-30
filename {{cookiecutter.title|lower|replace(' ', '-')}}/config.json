@@ -1,6 +1,9 @@
 {
   "title": "{{cookiecutter.title}}",
   "second_title":"{{cookiecutter.second_title}}",
+  "chapters": [
+    "chapter1"
+  ],
   "year":"{{cookiecutter.year}}",
   "date":"{{cookiecutter.show_date}}",
   "company": "{{cookiecutter.company}}",
