@@ -6,7 +6,7 @@ Welcome to Foliant, a documentation builder with superpowers.
 ## Usage
 
 {% raw %}
-{{ <https://github.com/foliant-docs/foliant.git#develop>README.md#Usage | nohead, sethead:3 }}
+{{ <https://github.com/foliant-docs/foliant.git#develop>README.md#Foliant | nohead, sethead:3 }}
 {% endraw %}
 
 
